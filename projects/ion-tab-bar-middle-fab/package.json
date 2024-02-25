@@ -1,15 +1,15 @@
 {
   "name": "ion-tab-bar-middle-fab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ramiassi/custom-ion-tab-bar/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramiassi/custom-ion-tab-bar/projects/ion-tab-bar-middle-fab"
+    "url": "https://github.com/ramiassi/custom-ion-tab-bar/blob/main/projects/ion-tab-bar-middle-fab"
   },
-  "homepage": "https://github.com/ramiassi/custom-ion-tab-bar/projects/ion-tab-bar-middle-fab/README.md",
+  "homepage": "https://github.com/ramiassi/custom-ion-tab-bar/blob/main/projects/ion-tab-bar-middle-fab/README.md",
   "keywords": [
     "ionic",
     "ionic framework",

@@ -2,9 +2,9 @@
 
 This ionic UI component tries to provide an easy way to put fab button in the middle of the tab bar with a transparent background.
 
-![ionic tab bar middle fab button light](screentshots/light.png)
+![ionic tab bar middle fab button light](https://raw.githubusercontent.com/ramiassi/custom-ion-tab-bar/main/projects/ion-tab-bar-middle-fab/screentshots/light.png)
 
-![ionic tab bar middle fab button light](screentshots/dark.png)
+![ionic tab bar middle fab button dark](https://raw.githubusercontent.com/ramiassi/custom-ion-tab-bar/main/projects/ion-tab-bar-middle-fab/screentshots/dark.png)
 
 ## Installation
 
