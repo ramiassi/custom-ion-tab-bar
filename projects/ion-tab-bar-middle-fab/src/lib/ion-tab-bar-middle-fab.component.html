@@ -1,0 +1,16 @@
+
+<ion-fab [vertical]="slot" horizontal="center" translucent="true">
+  <slot name="middle-fab"></slot>
+</ion-fab>
+
+<ion-tab-bar [slot]="slot" [ngClass]="slot" class="ion-no-border">
+  <slot name="left-side">
+  </slot>
+
+    <!-- <svg height="50" viewBox="0 0 100 50" width="100" xmlns="http://www.w3.org/2000/svg"><path d="M100 0v50H0V0c.543 27.153 22.72 49 50 49S99.457 27.153 99.99 0h.01z" fill="red" fill-rule="evenodd"></path></svg> -->
+    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="75" height="61"><path d="M75.2 0v61H0V0c4.1 0 7.4 3.1 7.9 7.1C10 21.7 22.5 33 37.7 33c15.2 0 27.7-11.3 29.7-25.9.5-4 3.9-7.1 7.9-7.1h-.1z"/></svg> -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.8 61.5"><path fill="red" fill-rule="evenodd" d="M112.4,11.5L112.4,11.5L112.4,11.5c0,0.4-0.1,0.7-0.1,1v0.1c-1.1,26.6-23,47.9-49.9,47.9 c-26.8,0-48.6-21.1-49.9-47.5v-0.5C12.4,5.6,6.9,0,0,0v61.5h124.8V0C118.2,0,112.9,5.1,112.4,11.5z" /></svg>
+
+  <slot name="right-side">
+  </slot>
+</ion-tab-bar>

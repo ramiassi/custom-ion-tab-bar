@@ -1,0 +1,7 @@
+{
+  "name": "custom-ion-tab-bar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

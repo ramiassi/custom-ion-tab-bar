@@ -1,0 +1,25 @@
+<ion-tabs>  
+  <ion-tab-bar-middle-fab slot="bottom">
+    <ion-tab-button tab="tab-encounters" slot="left-side">
+      <ion-icon name="compass"></ion-icon>
+    </ion-tab-button>
+
+    <ion-tab-button tab="tab-conversations" slot="left-side">
+      <ion-icon name="chatbubbles"></ion-icon>
+      <ion-badge>9</ion-badge>
+    </ion-tab-button>
+    
+    <ion-fab-button slot="middle-fab" color="danger" (click)="fabClick()">
+      <ion-icon name="camera"></ion-icon>
+    </ion-fab-button>
+
+    <ion-tab-button tab="tab-notifications" slot="right-side">
+      <ion-icon name="notifications"></ion-icon>
+      <ion-badge>9</ion-badge>
+    </ion-tab-button>
+
+    <ion-tab-button tab="tab-profile" slot="right-side">
+      <ion-icon name="person"></ion-icon>
+    </ion-tab-button>
+  </ion-tab-bar-middle-fab>
+</ion-tabs>
